@@ -20,7 +20,7 @@ npm install
 yarn install
 ```
 
-##Usage
+## Usage
 To start the development server, run:
 
 ```bash
@@ -29,9 +29,9 @@ npm start
 yarn start
 ```
 
-##Technologies Used
+## Technologies Used
 
-*React.js - JavaScript library for building user interfaces.
+* React.js - JavaScript library for building user interfaces.
 
-*Tailwind CSS - Utility-first CSS framework.
+* Tailwind CSS - Utility-first CSS framework.
 
