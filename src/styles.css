@@ -1,0 +1,16 @@
+/* src/styles.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.newsletter{
+    height: 450px;
+}
+
+.custom-blue{
+   color: rgb(0, 107, 255);
+}
+
+.custom-darkblue{
+    color: rgb(11, 53, 88);
+}
