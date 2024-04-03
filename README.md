@@ -1,4 +1,4 @@
-# Aeonaxy Technology
+# Aeonaxy Technology - Tailwind CSS & ReactJs Development
 
 Aeonaxy Technology is a web application built with React.js that showcases innovative technologies and solutions developed by Aeonaxy.
 
@@ -32,5 +32,6 @@ yarn start
 ##Technologies Used
 
 *React.js - JavaScript library for building user interfaces.
+
 *Tailwind CSS - Utility-first CSS framework.
 
